@@ -1,7 +1,7 @@
 name = "landing-page"
 type = "webpack"
-account_id = ""
-zone_id = ""
+account_id = "ab6f214112a7e6506adc6c8633d9abbf"
+zone_id = "da698b08a6c463975bbd4c17385cfa31"
 workers_dev = true
 route = ""
 
